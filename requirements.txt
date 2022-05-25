@@ -16,7 +16,7 @@ idna==2.8
 mysqlclient==1.4.2.post1
 phonenumbers==8.10.12
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-magic==0.4.15
 pytz==2019.1
 requests==2.22.0
